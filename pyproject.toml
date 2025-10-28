@@ -33,6 +33,10 @@ members = [
   "src/discord_impl",
   "src/discord_service",
   "src/discord_adapter",
+  "src/chat_client_api",
+  "src/chat_client_service",
+  "src/discord_client_impl",
+  "src/chat_adapter",
 ]
 
 
